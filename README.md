@@ -4,10 +4,7 @@ A small, practical DRAM tester for **Mostek MK4096N-16** (and similar 4K×1 DRAM
 
 This project is aimed at quickly validating vintage DRAM chips on the bench with clear serial output, visible LED status, and an optional “stress soak” that increases timing pressure as the test progresses.
 
-
-<img width="2273" height="2852" alt="image" src="https://github.com/user-attachments/assets/2217251b-3735-4ac2-94bc-4824e53f3ce9" />
-
-
+<img width="500" height="627" alt="image" src="https://github.com/user-attachments/assets/323494fb-d791-48ca-90fe-1ee4785a2837" />
 
 
 ---
