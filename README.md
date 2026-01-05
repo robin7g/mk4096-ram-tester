@@ -1,4 +1,4 @@
-# MK4096 (4K×1) DRAM Tester — Arduino Uno R4 Minima + “4116 Tester” Board
+# MK4096 (4K×1) DRAM Tester 
 
 A small, practical DRAM tester for **Mostek MK4096N-16** (and similar 4K×1 DRAMs) using an **Arduino Uno R4 Minima** and a common **4116-style DRAM tester PCB** (the kind that generates **+12V / +5V / −5V**).
 
