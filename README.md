@@ -1,8 +1,8 @@
-# MK4096 (4K×1) DRAM Tester 
+# MK4096 (4K×1) DRAM Tester (also MK4027)
 
 A small, practical DRAM tester for **Mostek MK4096N-16** (and similar 4K×1 DRAMs) using an **Arduino Uno R4 Minima** and a common **4116-style DRAM tester PCB** (the kind that generates **+12V / +5V / −5V**).
 
-This project is aimed at quickly validating vintage DRAM chips on the bench with clear serial output, visible LED status, and an optional “stress soak” that increases timing pressure as the test progresses.
+This project is aimed at quickly validating vintage DRAM chips on the bench with clear serial output, visible LED status, and an optional “stress soak” that increases timing pressure as the test progresses. Also tested and works with MK4027N chips. These chips are commonly used in Apple 1 computers. 
 
 ![4116Tester-MK4096](https://github.com/user-attachments/assets/8c469540-f950-4d85-9526-5bd7c7ca7071)
 
